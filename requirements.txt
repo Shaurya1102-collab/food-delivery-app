@@ -1,7 +1,3 @@
 streamlit
 supabase==2.4.6
-gotrue==2.4.4
-postgrest==2.0.4
-storage3==2.0.6
-realtime==1.0.2
 python-dotenv
